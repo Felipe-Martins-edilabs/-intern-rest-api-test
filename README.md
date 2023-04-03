@@ -1,6 +1,6 @@
 # Teste Técnico edi-labs
 ## Objetivo 
-### O objetivo é criar script que converta um arquivo XML em um arquivo CSV
+### O objetivo é criar um script que converta um arquivo XML em um arquivo CSV
 
 ### Para realizar este teste, siga as instruções abaixo:
 * Privar o seu repositório ao iniciar o desenvolvimento.
